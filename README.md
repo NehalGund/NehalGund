@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@NehalGund](https://github.com/NehalGund)
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data science, machine learning and artificial intelligence
+- 🌱 I’m currently learning artificial intelligence
 - 📫 You can reach me through my email : gundnehal@gmail.com
 
 <!---
