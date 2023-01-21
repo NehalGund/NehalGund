@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=NehalGund&style=plastic)
 - 👋 Hi, I’m [@NehalGund](https://github.com/NehalGund)
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 I’m currently learning artificial intelligence
