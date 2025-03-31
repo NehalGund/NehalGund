@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=NehalGund&style=plastic)
 - 👋 Hi, I’m [@NehalGund](https://github.com/NehalGund)
-- 👀 I’m interested in data science, machine learning and artificial intelligence
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in data science, machine learning, artificial intelligence and Gen-AI
+- 🌱 I’m currently learning Gen-AI, artificial intelligence, machine learning & data science
 - 📫 You can reach me through my email : gundnehal@gmail.com
 
 <!---
